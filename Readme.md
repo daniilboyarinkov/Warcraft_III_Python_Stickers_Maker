@@ -1,51 +1,110 @@
-# BittoCheat_Telegram_Warcraft3_bot
+# Warcraft III Python stickers maker
 
-Well, that's not actually a bot yet. Here are just some python scripts that I used to automatically create Warcraft III sticker packs.
+## Навигация
++ [Stage 1](https://github.com/daniilboyarinkov/Warcraft_III_Python_Stickers_Maker#stage-1)
++ [Stage 2](https://github.com/daniilboyarinkov/Warcraft_III_Python_Stickers_Maker#stage-2)
++ [Stage 3](https://github.com/daniilboyarinkov/Warcraft_III_Python_Stickers_Maker#stage-3)
 
-> But I'm doing all my best to bring my idea into life...
+<div>
+   <h2>Проект развернулся в 3 этапа.</h2>
+</div>
 
----
+1. Был реализован код создания стикеров юнитов **Warcraft III**.
+[Вы находитесь здесь ⬇️](https://github.com/daniilboyarinkov/Warcraft_III_Python_Stickers_Maker)
+2. Были добавлены **все** юниты основных 4 фракций.
+3. Был реализован бот на **Node JS**. Он отправляет стикер и озвученную фразу выбранного персонажа.
+[Это находится здесь](https://github.com/daniilboyarinkov/Warcraft_III_Sticker_bot)
 
-Furthermore, I do really hope that one day I'll rewrite this project to __JS__ (because of many reasons of course, not because I just want it)
+Бот в _**Telegram**_: 
 
-> The final version of that bot will be written in JS. I swear...
+      @BDW_Warcraft_III_Stickers_bot
 
----
-
-## Here are my __Telegram sticker packs__ (that were made and published automatically):
+## Here are __Telegram sticker packs__ 
+(that were made and published automatically)
+### Stage 1 of the project
  + [Night Elf](https://t.me/addstickers/WC3_NE)
  + [Orc](https://t.me/addstickers/WC3_Orc)
  + [Undead](https://t.me/addstickers/WC3_UD)
  + [Humans](https://t.me/addstickers/WC3_Humans)
 
+### Stage 2 of the project
+
+ + [Night Elf | Part 1](https://t.me/addstickers/Warcraft3_Night_Elf_Part1)
+ + [Night Elf | Part 2](https://t.me/addstickers/Warcraft3_Night_Elf_Part2)
+ + [Orc | Part 1](https://t.me/addstickers/Warcraft3_Orc_Part1)
+ + [Orc | Part 2](https://t.me/addstickers/Warcraft3_Orc_Part2)
+ + [Orc | Part 3](https://t.me/addstickers/Warcraft3_Orc_Part3)
+ + [Undead | Part 1](https://t.me/addstickers/Warcraft3_Undead_Part1)
+ + [Undead | Part 2](https://t.me/addstickers/Warcraft3_Undead_Part2)
+ + [Humans | Part 1](https://t.me/addstickers/Warcraft3_Human_Part1)
+ + [Humans | Part 2](https://t.me/addstickers/Warcraft3_Human_Part2)
+ + [Humans | Part 3](https://t.me/addstickers/Warcraft3_Human_Part3)
+
+
+# Stage 1
+
+### Here is just one sticker from [Night Elf](https://t.me/addstickers/WC3_NE) Sticker Pack.
+
+<div align="center">
+   <img src="Pictures/NE1.webp" alt="Sticker" width="220">
+</div>
+
+### And that's one from [Orc](https://t.me/addstickers/WC3_Orc) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/Orc1.webp" alt="Sticker" width="220">
+</div>
+
+### That's one from [Undead](https://t.me/addstickers/WC3_UD) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/UD1.webp" alt="Sticker" width="220">
+</div>
+
+### And that's from [Humans](https://t.me/addstickers/WC3_Humans) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/Human1.webp" alt="Sticker" width="220">
+</div>
+
+
+# Stage 2
+
+### Here is just one sticker from [Night Elf](https://t.me/addstickers/Warcraft3_Night_Elf_Part1) Sticker Pack.
+
+<div align="center">
+   <img src="Pictures/NE2.webp" alt="Sticker" width="220">
+</div>
+
+### And that's one from [Orc](https://t.me/addstickers/Warcraft3_Orc_Part1) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/Orc2.webp" alt="Sticker" width="220">
+</div>
+
+### That's one from [Undead](https://t.me/addstickers/Warcraft3_Undead_Part1) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/UD2.webp" alt="Sticker" width="220">
+</div>
+
+### And that's from [Humans](https://t.me/addstickers/Warcraft3_Human_Part1) Sticker Pack
+
+<div align="center">
+   <img src="Pictures/Human2.webp" alt="Sticker" width="220">
+</div>
+
 ---
 
-# Here is just one sticker from [Night Elf](https://t.me/addstickers/WC3_NE) Sticker Pack.
-
-![Sticker](Pictures\Easy.webp)
+*С остальными стикерами вы можете ознакомиться самостоятельно.*
 
 ---
 
-# And that's one from [Orc](https://t.me/addstickers/WC3_Orc) Sticker Pack
-![](Pictures/orc.webp)
+# Stage 3
 
----
+Бот в _**Telegram**_: 
 
-# That's one from [Undead](https://t.me/addstickers/WC3_UD) Sticker Pack
-
-![](Pictures/UDwebp.webp)
-
----
-
-# And that's from [Humans](https://t.me/addstickers/WC3_Humans) Sticker Pack
-
-![](Pictures/Human.webp)
-
----
-
-*All other stickers you can easily see by yourself by following links above...*
-
----
+      @BDW_Warcraft_III_Stickers_bot
 
 ### In that project I used:
  + Python Telegram user bot (to automate the publishing of sticker packs)
@@ -57,16 +116,21 @@ Furthermore, I do really hope that one day I'll rewrite this project to __JS__ (
  + Wrapping text and calculating appropriate font size of text
    + Text Wrapper
  + A little of math formulas that just suddenly appeared in my head
-
+ 
 ---
 
-Probably I'll remake plenty of these stickers into more nicely-looking ones in the nearest future. And also, I'm going to add many other characters that unfortunately ain't there yet...
+### Stage 1 of the project
 
-#### At Least I hope that I would have an opportunity to make all of that stuff...
+<div align="center">
+   <img src="Pictures/MG.gif" alt="Sticker" width="220">
+</div>
 
----
+### Stage 2 of the project
 
-![](Pictures/MG.gif)
+<div align="center">
+   <img src="Pictures/MountainGiant.gif" alt="Sticker" width="220">
+</div>
+
 
 ---
 
